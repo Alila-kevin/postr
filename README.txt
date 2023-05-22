@@ -33,7 +33,7 @@ To setup the SQLite database:
     cd scripts
     php load.sqlite.php
 
-REQUESTS
+REQUEST
 ========
 
 If you have any feature requests, please send them to:
@@ -65,4 +65,4 @@ Zend Framework components used include:
 LICENSE
 =======
 
-Please see LICENSE.txt
+Please see LICENSE.txt 
